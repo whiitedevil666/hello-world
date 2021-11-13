@@ -1,2 +1,7 @@
-# hello-world
-hello-world program created by wd
+#include <stdio.h>
+
+int main() {
+   printf("Hello World!");
+   return 0;
+}
+/*hello-world program created by wd*/
